@@ -1,0 +1,6 @@
+.media{
+    margin-top: 50px;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+}
